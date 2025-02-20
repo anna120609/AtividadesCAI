@@ -1,0 +1,9 @@
+Ligar led Vermelho
+esperar o tempo do vermelho 5s
+desligar led vermelho 
+ligar led verde
+esperar o tempo do verde 3s
+desligar led verde 
+ligar led amarelo
+esperar o tempo do amarelo 2s
+desligar led amarelo

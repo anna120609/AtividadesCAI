@@ -1,0 +1,19 @@
+acende vermelho2
+Acende verde1
+espera 3s
+apaga verde1
+
+acende amarelo1
+espera 2s
+apaga amarelo1
+apaga vermelho2
+
+acende vermelho1
+acende verde2
+espera 3s
+apaga verde2
+
+acende amarelo2
+espera 2s
+apaga amarelo2
+apaga vermelho1
